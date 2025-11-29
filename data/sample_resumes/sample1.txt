@@ -1,0 +1,5 @@
+John Doe
+Email: john@example.com
+Skills: Python, SQL, AWS, Docker
+Experience: 3 years as Python Developer at XYZ (2019-2022)
+Education: B.Tech Computer Science
