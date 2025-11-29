@@ -26,7 +26,7 @@ Smart Resume Screener is an AI-powered application to **screen resumes efficient
 ## 5️⃣ Setup & Run Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ushabraj/smart-resume-screener.git
+git clone (https://github.com/Ushabraj/resume_screening_agent)
 cd smart-resume-screener
 
 pip install -r requirements.txt
@@ -72,4 +72,5 @@ Network URL: http://192.168.43.122:8508
        └───────────────────────────┘
 
 ![Logo](c:\Users\USHA\Downloads\resume_screening.png)
+
 
